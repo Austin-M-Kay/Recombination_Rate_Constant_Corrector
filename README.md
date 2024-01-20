@@ -4,7 +4,7 @@ An open-source, Jupyter-based script for correcting bimolecular recombination ra
 
 _A New Framework for Understanding Recombination-Limited Charge Extraction in Disordered Semiconductors_
 
-Austin M. Kay$^{[1]}$, Oskar J. Sandberg[*2], Drew B. Riley[1], Paul Meredith[1], & Ardalan Armin[*1]
+Austin M. Kay<sup>[1]</sup>, Oskar J. Sandberg[*2], Drew B. Riley[1], Paul Meredith[1], & Ardalan Armin[*1]
 
 [1] Sustainable Advanced Materials (Sêr-SAM), Centre for Integrative Semicon1ductor Materials (CISM), Department of Physics, Swansea University Bay Campus, Swansea SA1 8EN, United Kingdom
 
